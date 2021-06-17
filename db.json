@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "label": "Pasear al perro",
+      "done": false
+    },
+    {
+      "id": 1,
+      "label": "Hacer la cama",
+      "done": true
+    },
+    {
+      "id": 3,
+      "label": "Barrer",
+      "done": false
+    },
+    {
+      "label": "Planchar ",
+      "done": false,
+      "id": 4
+    }
+  ]
+}
